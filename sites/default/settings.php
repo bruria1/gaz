@@ -215,8 +215,8 @@ $databases = array (
   array (
     'default' => 
     array (
-      'database' => 'gaz_gaz',
-      'username' => 'gaz_gaz',
+      'database' => 'gazdev_gazdev',
+      'username' => 'gazdev_gazdev',
       'password' => 'gaambr1743',
       'host' => 'localhost',
       'port' => '',
@@ -256,7 +256,7 @@ $update_free_access = FALSE;
  *   $drupal_hash_salt = file_get_contents('/home/example/salt.txt');
  *
  */
-$drupal_hash_salt = 'aYvmAdAjYlnrw5fJXCIB9E4LJV3UEuqidz9YXLxC7u0';
+$drupal_hash_salt = 'jvqpkzgcQ1amRqsaUYE_7NVIBlwmFiPhFVQF6Sg9ork';
 
 /**
  * Base URL (optional).
